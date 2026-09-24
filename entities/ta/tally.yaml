@@ -35,14 +35,14 @@ offers:
     offer_slug: tally-startup-discount
     offer_slug_aliases: []
     title: 50% off Tally Pro for one year
-    summary: Startups that are members of a Tally partner and hold a partner code can apply for 50% off Tally Pro for 1 year, if they have never been a paid Tally customer.
+    summary: Startups can apply to receive 50% off Tally Pro during 1 year.
     lifecycle:
       status: active
       effective_from: 2026-09-03T19:15:17.920Z
     economics:
       consideration:
         kind: variable
-        description: The startup pays the discounted Tally Pro price for 1 year; a discounted plan cannot be renewed if the subscription cancels because of failed payments.
+        description: The startup receives 50% off Tally Pro during 1 year.
       benefits:
         - benefit_id: ben_01
           applies_to: Tally Pro
